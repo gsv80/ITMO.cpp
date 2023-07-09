@@ -19,7 +19,7 @@ int main()
     std::string strToN; 
     std::string newStr{};
 
-    std::cout << "Enter string (with numbers) - get number\n";
+    std::cout << "Enter snils number to check if it valid\n";
 
     std::getline(std::cin,strToN);
 
