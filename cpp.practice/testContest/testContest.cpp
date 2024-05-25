@@ -3,6 +3,7 @@
 
 #include <iostream>
 
+/*
 class A {
 private:
         int* arr[size];
@@ -24,15 +25,19 @@ public:
 };
 
 
-
+*/
 int main()
-{
+{}
+/*
+
+
     int arr[10];
     
     
     
     std::fill(arr, arr + 5, 9);
     std::cout << arr[0];
+*/
     //A a1;
     //A a2(10); //10 – array size
     //std::cout << a2;
@@ -48,7 +53,6 @@ int main()
     //}
     
 
-}
 
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

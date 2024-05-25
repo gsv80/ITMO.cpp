@@ -30,6 +30,7 @@ int main()
     case 1: bubble_sort(arr, arrSize, ascending);
         break;
     case 0: bubble_sort(arr, arrSize, descending);
+        break;
        
     default: std::cout << "\r Unknown exception";
         break;
