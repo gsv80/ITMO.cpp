@@ -27,9 +27,9 @@ public:
 	
 	void getdist()
 	{
-		cout << "\nÂâåäèòå ôóòû: ";
+		cout << "\nEnter feet value: ";
 		cin >> feet;
-		cout << "Ââåäèòå äşéìû: ";
+		cout << "Enter inches value: ";
 		cin >> inches;
 	}
 
